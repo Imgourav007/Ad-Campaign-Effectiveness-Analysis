@@ -7,9 +7,7 @@ Analyzed engagement metrics and viewer duration across timestamps to identify th
 🔹 2. Campaign Impact Evaluation (Test vs Control Group)
 Performed a comparative analysis between test and control user groups to assess the success of a recent ad campaign. Engagement-based KPIs such as viewer duration and interaction rates were used to conclude whether the campaign positively influenced user behavior.
 
-🛠️ Tools Used
-Python
-
-Pandas, NumPy
-
-Matplotlib
+## 🛠️ Tools Used
+1. Python
+2. Pandas
+3. Matplotlib
